@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+<br>
+To run the fake api run => npm run server
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
